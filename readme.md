@@ -1,3 +1,4 @@
-# Learn git on VSCode
+# Learn git in VSCode
 
-- the first line
+- one line
+- another line
